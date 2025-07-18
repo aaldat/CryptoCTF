@@ -1,0 +1,24 @@
+05/30/25 17:25:53, =====================================
+05/30/25 17:25:53, System/Build Info: 
+05/30/25 17:25:53, detected Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+detected L1 = 32768 bytes, L2 = 6291456 bytes, CL = 64 bytes
+05/30/25 17:25:53, CPU features enabled: 05/30/25 17:25:53, 
+05/30/25 17:25:53, using 1 random witness for Rabin-Miller PRP checks
+05/30/25 17:25:53, Cached 664579 primes: max prime is 9999991
+05/30/25 17:25:53, Could not parse yafu.ini from /home/aaldat/Cryptography/_EXERCISES/VIDEOS/Python/Attacks/CTF/asymmetric/Infamous
+
+05/30/25 17:25:53, Random seed: 352448019521990292
+05/30/25 17:25:53, Processing: factor(770071954467068028952709005868206184906970777429465364126693)
+05/30/25 17:26:00, Result    : 1
+06/07/25 11:58:55, =====================================
+06/07/25 11:58:55, System/Build Info: 
+06/07/25 11:58:55, detected Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+detected L1 = 32768 bytes, L2 = 6291456 bytes, CL = 64 bytes
+06/07/25 11:58:55, CPU features enabled: 06/07/25 11:58:55, 
+06/07/25 11:58:55, using 1 random witness for Rabin-Miller PRP checks
+06/07/25 11:58:55, Cached 664579 primes: max prime is 9999991
+06/07/25 11:58:55, Could not parse yafu.ini from /home/aaldat/Cryptography/_EXERCISES/VIDEOS/Python/Attacks/CTF/asymmetric/Infamous
+
+06/07/25 11:58:55, Random seed: 8132576829001993161
+06/07/25 11:58:55, Processing: factor(770071954467068028952709005868206184906970777429465364126693)
+06/07/25 11:59:00, Result    : 1
